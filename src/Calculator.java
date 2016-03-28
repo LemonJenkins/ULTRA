@@ -1,6 +1,3 @@
-/**
- * Created by Lemon Jenkins on 23.03.2016.
- */
 public class Calculator {
         public int add(int a, int b){
             return a + b;
