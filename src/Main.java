@@ -24,6 +24,9 @@ public class Main {
         if("/".equals(d)){
             System.out.print(a + " / " + b + " = " + c.divide(a,b));
         }
+        if("^".equals(d)){
+            System.out.print(a + "^" + b + " = " + c.degree(a,b));
+        }
     }
 
 }
